@@ -12,11 +12,11 @@ BUILD Finance is a decentralised autonomous venture builder, owned and controlle
 
 There are five core activities in which the venture BUILDers engage:
 
-1. identifying business ideas,
-2. organising teams,
-3. sourcing capital,
-4. helping govern the product entities, and
-5. providing shared services.
+1. Identifying business ideas,
+2. Organising teams,
+3. Sourcing capital,
+4. Helping govern the product entities, and
+5. Providing shared services.
 
 BUILD operates a shared capabilities model, where the DAO provides the backbone support and ensures inter-entity synergies so that the product companies can focus on their own outcomes.
 
