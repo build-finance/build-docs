@@ -101,11 +101,11 @@ In an early stage, the development will be funded by an allocation of bCRED debt
 
 #### **Smart Contract Audit**
 
-Contracts are not audited. It's up to the BUILD community governance to decide how to spend our funds. If the community wants to spend any amount for auditing, a voting proposal can be initiated. As with any decisions and proposals, the cost-benefit analysis must be employed in regards to the economical sense of spending any funds on audit vs developing more products and expanding our revenue streams..
+Contracts are not audited. It's up to the BUILD community governance to decide how to spend our funds. If the community wants to spend any amount for auditing, a voting proposal can be initiated. As with any decisions and proposals, the cost-benefit analysis must be employed in regards to the economical sense of spending any funds on audit vs developing more products and expanding our revenue streams.
 
 #### **DAO Liabilities and $bCRED**
 
-$bCRED is a token that allowed the DAO to reward members for work before the DAO sourced any funds. Read more about it here: [https://medium.com/@BUILD\_Finance/what-is-bcred-b97e4cc75f8c](https://medium.com/@BUILD_Finance/what-is-bcred-b97e4cc75f8c)
+$bCRED is a token that allowed the DAO to reward members for work before the DAO source sufficient funds. Effectively, $bCRED is a promissory note or an IOU to give back $DAI at 1:1 ratio, when the DAO starts generating revenues. Read more about $bCRED here: [https://medium.com/@BUILD\_Finance/what-is-bcred-b97e4cc75f8c](https://medium.com/@BUILD_Finance/what-is-bcred-b97e4cc75f8c).
 
 ## SOCIAL MEDIA
 
@@ -115,18 +115,28 @@ $bCRED is a token that allowed the DAO to reward members for work before the DAO
 * Discord: [https://discord.gg/FN3sNSE](https://discord.gg/FN3sNSE)
 * Forum: [https://forum.letsbuild.finance](https://forum.letsbuild.finance)
 * Twitter: [https://twitter.com/finance\_build](https://twitter.com/finance_build)
-* Medium: [https://medium.com/@BUILD\_Finance](https://medium.com/@BUILD_Finance)
+* Medium: [https://build-finance.medium.com](https://build-finance.medium.com)
 * LinkedIn: [https://www.linkedin.com/company/build-finance-dao](https://www.linkedin.com/company/build-finance-dao)
 * Github: [https://github.com/build-finance](https://github.com/build-finance)
 * Telegram: No official telegram. Unofficial ones are:
   * [https://t.me/buildfinancecommunity](https://t.me/buildfinancecommunity)
   * [https://web.telegram.org/\#/im?p=g483719822](https://web.telegram.org/#/im?p=g483719822)
 
-## BUILDer user role in Discord <a id="f7b3"></a>
+## BUILDER User Role in Discord <a id="f7b3"></a>
 
 Since Discord is our primary coordination mechanism, we need to make effort to keep it focused on producing value. During the launch of METRIC, we’ve doubled our total number of users! This made it very difficult for existing users to explain what BUILD is about to new users and created a lot of confusion.
 
 To help improve the quality of conversations, we’ve introduced a new user role called BUILDer. BUILDers will have write-access to product development channels while everyone else will only be able to read them. This should keep those product changes focused on actual productive conversations and make them more informative.
+
+## **GUARDIAN Role**
+
+To increase our collective output as a community, a governance vote introduced an incentivisation mechanism for community contribution, tipping, and other small projects using our unique bCRED token \(but may change in the future as required\). These tokens are stewarded by 6 active community members — “guardians’’ — who are free to allocate these funds to tip people for proactive work. The list of guardians is: @vfat @nickbtts @Son of Ishtar @Benjamin Mooney @!! HODLhands !! @0xdev0. 
+
+Hence, Guardians are defined as members of the DAO who are entrusted with a community budget for tipping other members for performing various small tasks.
+
+All accounting for bCRED can be found in this google [spreadsheet](https://docs.google.com/spreadsheets/d/1q6-YiR5WlxNwCxGcX25fHsVvYnYDerbu-669YB_mJ_k/edit#gid=0).
+
+{% embed url="https://docs.google.com/spreadsheets/u/3/d/1q6-YiR5WlxNwCxGcX25fHsVvYnYDerbu-669YB\_mJ\_k/edit\#gid=0" %}
 
 ## WHERE DO WE GO FROM HERE? <a id="503f"></a>
 
@@ -138,11 +148,11 @@ So where do we go from here?
 
 **Metric Exchange** - a DEX aggregator that allows for limit orders trading for any ERC-20 token, which can also aid other projects with liquidity problems called Metric. The new functionality has just been launched. Protocol - a liquidity locking lego.
 
-OTC Market - a decentralised peer-to-peer OTC market.
+**OTC Market** - a decentralised peer-to-peer OTC market.
 
-bGold - a synthetic token pegged to gold \(early stages of development\).
+**bGold** - a synthetic token pegged to gold \(early stages of development\).
 
-Updown - binary options for volatility trading instrument \(\) in development \(early stages of development\).
+**Updown** - binary options for volatility trading instrument \(\) in development \(early stages of development\).
 
 The other immediate focus right now will be to make good use of our newly available funding and hire several product managers for other projects. More details on this will follow soon.
 
