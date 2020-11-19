@@ -71,8 +71,8 @@ Access to minting function currently solely resides with @0xdev0 \(the dev found
 * Currently done off-chain via Snapshot: [https://snapshot.page/\#/build](https://snapshot.page/#/build)
 * Minimum quorum required: 5%
 * Voting window: At least 24 hours
-* \(in progress\) Minimum $BUILD to create a proposal: 10 $BUILD \(0.1% of the total supply\)
-* \(in progress\) Voting with LP tokens: Holders will be able to vote with their UNI-LP tokens
+* Minimum $BUILD to create a proposal: 10 $BUILD \(0.1% of the total supply\)
+* Voting with LP tokens: Holders are be able to vote with their BUILD/ETH UNI-LP tokens
 * Delegated voting: Being discussed
 
 ### **Proposal Submission Process:**
