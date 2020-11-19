@@ -113,7 +113,6 @@ $bCRED is a token that allowed the DAO to reward members for work before the DAO
 
 * Web-site: [https://letsbuild.finance](https://letsbuild.finance/)
 * Discord: [https://discord.gg/FN3sNSE](https://discord.gg/FN3sNSE)
-* Forum: [https://forum.letsbuild.finance](https://forum.letsbuild.finance)
 * Twitter: [https://twitter.com/finance\_build](https://twitter.com/finance_build)
 * Medium: [https://build-finance.medium.com](https://build-finance.medium.com)
 * LinkedIn: [https://www.linkedin.com/company/build-finance-dao](https://www.linkedin.com/company/build-finance-dao)
