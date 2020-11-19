@@ -144,9 +144,11 @@ The Metric launch marked an important milestone for BUILD Finance. We’ve final
 
 So where do we go from here?
 
-![Image for post](https://miro.medium.com/max/799/1*IAjniDQBwZYCP60FBGmOwQ.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 **Metric Exchange** - a DEX aggregator that allows for limit orders trading for any ERC-20 token, which can also aid other projects with liquidity problems called Metric. The new functionality has just been launched. Protocol - a liquidity locking lego.
+
+**Hype Protocol** - recently launched a liquidity locking lego.
 
 **OTC Market** - a decentralised peer-to-peer OTC market.
 
