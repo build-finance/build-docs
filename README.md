@@ -150,9 +150,9 @@ So where do we go from here?
 
 **OTC Market** - a decentralised peer-to-peer OTC market.
 
-**bGold** - a synthetic token pegged to gold \(early stages of development\).
+**bGold** - algorithmic stablecoin pegged to gold \(early stages of development\).
 
-**Updown** - binary options for volatility trading instrument \(\) in development \(early stages of development\).
+**Updown** - binary options for volatility trading instrument \(early stages of development\).
 
 The other immediate focus right now will be to make good use of our newly available funding and hire several product managers for other projects. More details on this will follow soon.
 
