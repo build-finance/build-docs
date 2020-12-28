@@ -132,7 +132,7 @@ The Metric launch marked an important milestone for BUILD Finance. We’ve final
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-* **Metric Exchange** - is a DEX aggregator that allows for limit orders trading for any ERC-20 token via 0x relayer. Development continues with the product owner SHA\_2048 and inputs from vfat. Live at me [metric.exchange](https://metric.exchange/).
+* **Metric Exchange** - is a DEX aggregator that allows for limit orders trading for any ERC-20 token via 0x relayer. Development continues with the product owner SHA\_2048 and inputs from vfat. Live at [metric.exchange](https://metric.exchange/).
 * **Updown Finance** - binary options for volatility trading instrument \(alpha is live at [updown.finance](https://updown.finance/)\).
 * **bGold** - is a synthetic token pegged to gold. This product is being worked on by the bGold team, plus inputs from SHA\_2048 and whitemoose.
 * **Vortex** -  is a lending & borrowing platform, which will target the long tail of assets that are currently not served by the existing DeFi money markets. This is a new product that was conceived in late November, although a number of discussions about it have been going pretty much since the inception of BUILD. Aiming to launch by Feb'2021.
