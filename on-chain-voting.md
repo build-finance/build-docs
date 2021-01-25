@@ -12,7 +12,7 @@ Modules controlled by the governance:
 * [BUILD token](https://etherscan.io/token/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739) \(minting\)
 * [BUILD treasury](https://etherscan.io/address/0xdf9a17a73308416f555783239573913afb77fa8a)
 * [Basis Gold BSG fund](https://etherscan.io/address/0x84a7559dbe02256d6d6f1b184517d65780c83b9b)
-* [Basis Gold boardroom](0xEEEeFF73060E9F36a270ad8A843f7D719cE2F79f) & treasury
+* [Basis Gold boardroom](https://etherscan.io/address/0xEEEeFF73060E9F36a270ad8A843f7D719cE2F79f) & treasury
 
 ### Parameters
 
@@ -20,7 +20,7 @@ Voting parameters can be changed in the future. As of Jan 25, 2021, they are as 
 
 * Min balance to submit new proposal: 100 BUILD
 * Quorum required to pass a proposal: 5,000 BUILD
-* Votig period: 24 hours
+* Voting period: 24 hours
 * Execution delay \(after voting priod ends\): 24 hours \(so 2 days since it's first submitted\)
 
 ### Pre-proposal
