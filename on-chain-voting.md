@@ -14,6 +14,15 @@ Modules controlled by the governance:
 * [Basis Gold BSG fund](https://etherscan.io/address/0x84a7559dbe02256d6d6f1b184517d65780c83b9b)
 * [Basis Gold boardroom](0xEEEeFF73060E9F36a270ad8A843f7D719cE2F79f) & treasury
 
+### Parameters
+
+Voting parameters can be changed in the future. As of Jan 25, 2021, they are as follows:
+
+* Min balance to submit new proposal: 100 BUILD
+* Quorum required to pass a proposal: 5,000 BUILD
+* Votig period: 24 hours
+* Execution delay \(after voting priod ends\): 24 hours \(so 2 days since it's first submitted\)
+
 ### Pre-proposal
 
 Before submitting a proposal, start a discussion in the \#governance channel in Discord in the relevant Discord server.
