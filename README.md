@@ -32,7 +32,7 @@ Following the natural free market forces, BUILD only works on those products tha
 
 BUILD members = BUILD users. It’s that simple.
 
-## $BUILD TOKEN & GOVERNANCE
+## $BUILD TOKEN
 
 ### Tokenomics
 
@@ -59,7 +59,7 @@ The voting took place at a later retired web-page https://vote.letsbuild.finance
 
 **Minting keys are not burnt** = $BUILD supply is not fixed as token holders can vote on minting new tokens for specific reasons determined by the token holders. For example, the DAO may mint additional tokens to incentivise usage of its products, which would, in turn, increase the value flow or TVL. Dilution is not in the economic benefit of the token holders, hence any such events has to be considered carefully.
 
-Access to minting function currently solely resides with @0xdev0 \(the dev founder\). He has committed in good faith to mint ONLY following the DAO voting. A safe buffer has been established in a form of the contract-enforced 48 hour delay, which should provide a sufficient time for the community to flag. Meaning that before such a transaction could be executed, everyone would be able to act in advance by withdrawing their funds / exiting from $BUILD. Any malicious minting would, theoretically, result in an immediate market sell-off of $BUILD, making it economically detrimental to do such minting. Furthermore, the founder's share \(which is currently being vested for a year\) would lose most or all of its value. This makes it highly improbable that any malicious minting would be performed_._ A MultiSig solution is being discussed to address this.
+Access to minting function is available via [on-chain governance](https://docs.build.finance/build-knowledge-base/on-chain-voting). A safe buffer is established in a form of the contract-enforced 24 hour delay, which should provide a sufficient time for the community to flag. Meaning that before such a transaction could be executed, everyone would be able to act in advance by withdrawing their funds / exiting from BUILD. Any malicious minting would, theoretically, result in an immediate market sell-off of $BUILD, making it economically detrimental to do such an action. This makes it highly improbable that any malicious minting would be performed_._
 
 * $BUILD token address: [0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739](https://etherscan.io/address/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739)
 * DAO treasury address: [0xdf9a17a73308416f555783239573913afb77fa8a](https://etherscan.io/address/0xdf9a17a73308416f555783239573913afb77fa8a)
@@ -68,34 +68,28 @@ Access to minting function currently solely resides with @0xdev0 \(the dev found
 * Circulation info: [https://www.coingecko.com/en/coins/build-finance](https://www.coingecko.com/en/coins/build-finance)
 * Uniswap liquidity info: [https://uniswap.info/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b](https://uniswap.info/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b)
 
-### Voting
+## GOVERNANCE
 
-* Snapshot \(off-chain\): [https://snapshot.page/\#/build](https://snapshot.page/#/build);
-* Minimum quorum required: 5%;
-* Voting window: At least 24 hours;
-* Minimum $BUILD to create a proposal: 10 $BUILD \(0.1% of the total supply\);
-* Voting with LP tokens: Holders are able to vote with BUILD/ETH UNI-LP tokens;
-* Delegated voting: Being discussed.
+All components of the BUILD DAO and the control over its have been decentralised:
 
-### **Proposal Submission Process:**
-
-1. Create a soft proposal in the \#governance channel on Discord \(or in a product channel if it's more relevant\) [https://discord.com/channels/751313634038251630/751633430516727808](https://discord.com/channels/751313634038251630/751633430516727808);
-2. Gauge feedback from the community \(aka community vetting\);
-3. Make corrections or dispose;
-4. Set up a snapshot proposal;
-5. Once ready, ask a discord admin/moderator to make an announcement to @everyone and share on twitter. _Note: community proposals submitted to Snapshot without prior discussion on discord will be deemed void._
+* **All contracts** \(incl. the Treasury and Basis Gold\) can be operated by $BUILD holders with on-chain proposals \(see [https://docs.build.finance/build-knowledge-base/on-chain-voting](https://docs.build.finance/build-knowledge-base/on-chain-voting)\);
+* **All social accounts** \(Discord, Telegram, and Twitter\) are managed by multiple moderators;
+* **All frontends** \(Metric Exchange, Basis Gold, and the BUILD homepage\) are auto-deployed and managed by multiple devs.
 
 ## TREASURY & DEVELOPMENT
 
 ### BUILD DAO Treasury
 
-Currently there’s NO treasury MultiSig, but it is being discussed. Current holdings are:
+The BUILD treasury has over $400k that can be managed by on-chain proposals and used in whichever way the community desires. For example, to hire developers. Having a functioning product, enough funds in the treasury and a fully decentralised governance has been a long-term goal since the inception in September 2020, and now it's finally here.
+
+Current holdings are _\(might be outdated\)_:
 
 * Capital budget \(dev / incentives fund\) - 11,025 $BUILD \(~$94k\);
 * Operational budget \(product development\) - 204,300 $aDAI;
 * Ownership stake - 200,000 $METRIC \(~$84k\);
 * Ownership stake - 199,900 $UPDOWN\(~$62k\);
 * Ownership stake - 5,400 $HYPE \(~$1.3k\);
+* Ownership stake - 2% of $BSGS supply.
   * _**TOTAL: ~$445k**_
 
 ### Funding of the Development
@@ -110,34 +104,28 @@ Contracts are not audited. It's up to the BUILD community governance to decide h
 
 $bCRED is a token that allowed the DAO to reward members for work before the DAO source sufficient funds. Effectively, $bCRED is a promissory note or an IOU to give back $DAI at 1:1 ratio, when the DAO starts generating revenues. Read more about $bCRED here: [https://medium.com/@BUILD\_Finance/what-is-bcred-b97e4cc75f8c](https://medium.com/@BUILD_Finance/what-is-bcred-b97e4cc75f8c).
 
-#### BUILDER User Role in Discord
+#### "BUILDER" User Role in Discord
 
 Since Discord is our primary coordination mechanism, we need to make effort to keep it focused on producing value. During the launch of METRIC, we’ve doubled our total number of users! This made it very difficult for existing users to explain what BUILD is about to new users and created a lot of confusion.
 
 To help improve the quality of conversations, we’ve introduced a new user role called BUILDer. BUILDers will have write-access to product development channels while everyone else will only be able to read them. This should keep those product changes focused on actual productive conversations and make them more informative.
 
-#### **GUARDIAN Role**
+#### **"GUARDIAN" Role** in Discord
 
 To increase our collective output as a community, a governance vote introduced an incentivisation mechanism for community contribution, tipping, and other small projects using our unique bCRED token \(but may change in the future as required\). These tokens are stewarded by active community members — “guardians’’ — who are free to allocate these funds to tip people for proactive work. Current guardians are @Son of Ishtar and @0xdev0, although anyone can propose the tip for anyone else. For more details see [Proposal \#15](https://snapshot.page/#/build/proposal/QmQb7hbQ5V4yfmKo6s9oWDBMi6K71H5hFGBbrdXBhaF744).
 
 Hence, Guardians are defined as members of the DAO who are entrusted with a community budget for tipping other members for performing various small tasks.
 
-All accounting for bCRED can be found in this google [spreadsheet](https://docs.google.com/spreadsheets/d/1q6-YiR5WlxNwCxGcX25fHsVvYnYDerbu-669YB_mJ_k/edit#gid=0).
-
-{% embed url="https://docs.google.com/spreadsheets/u/3/d/1q6-YiR5WlxNwCxGcX25fHsVvYnYDerbu-669YB\_mJ\_k/edit\#gid=0" %}
-
 ## PRODUCT SUITE & ROADMAP <a id="503f"></a>
 
-The Metric launch marked an important milestone for BUILD Finance. We’ve finally raised hard cash \(DAI\) into our treasury we can use for product development. We’ve launched our first product. We’ve doubled our number of users. And we’ve gained some attention from some of the well-respected members of the crypto-community. So where do we go from here?
-
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 * **Metric Exchange** - is a DEX aggregator that allows for limit orders trading for any ERC-20 token via 0x relayer. Development continues with the product owner SHA\_2048 and inputs from vfat. Live at [metric.exchange](https://metric.exchange/).
+* **Basis Gold** - a synthetic, algorythmically-adjusted token pegged to the price of gold \(sXAU\) with elastic supply. Live at [https://basis.gold/](https://basis.gold/).
 * **Updown Finance** - binary options for volatility trading instrument \(alpha is live at [updown.finance](https://updown.finance/)\).
-* **bGold** - is a synthetic token pegged to gold. This product is being worked on by the bGold team, plus inputs from SHA\_2048 and whitemoose.
-* **Vortex** -  is a lending & borrowing platform, which will target the long tail of assets that are currently not served by the existing DeFi money markets. This is a new product that was conceived in late November, although a number of discussions about it have been going pretty much since the inception of BUILD. Aiming to launch by Feb'2021.
+* **Vortex** - a lending & borrowing platform, which will target the long tail of assets that are currently not served by the existing DeFi money markets. Aiming to launch by March'2021.
 
-The other immediate focus right now will be to make good use of our newly available funding and hire several product managers for other projects. More details on this will follow.
+The other immediate focus right now will be to make good use of our newly available funding and hire several product managers for other projects.
 
 Please note that nothing is here set in stone. Just like any other start-up, we’ll keep experimenting, learning, and evolving. What’s listed here is just our current trajectory but it might change at any point.
 
@@ -149,8 +137,6 @@ Please note that nothing is here set in stone. Just like any other start-up, we�
 * Medium: [https://build-finance.medium.com](https://build-finance.medium.com)
 * LinkedIn: [https://www.linkedin.com/company/build-finance-dao](https://www.linkedin.com/company/build-finance-dao)
 * GitHub: [https://github.com/build-finance](https://github.com/build-finance)
-* Telegram \(unofficial\):
-  * [https://t.me/buildfinancecommunity](https://t.me/buildfinancecommunity)
-  * [https://web.telegram.org/\#/im?p=g483719822](https://web.telegram.org/#/im?p=g483719822)
-* WeChat \(unofficial\): [https://weixin.qq.com/g/AgYAAKFpdTFYjJZ2f7Aljwd4vf-2JbeqCobrkH9KRcu18N-2sC31CUKFCMmcSNwp](https://weixin.qq.com/g/AgYAAKFpdTFYjJZ2f7Aljwd4vf-2JbeqCobrkH9KRcu18N-2sC31CUKFCMmcSNwp)
+* Telegram: [https://t.me/BuildFinanceGroup](https://t.me/BuildFinanceGroup)
+* Gitcoin: [https://gitcoin.co/grants/1906/build-finance-dao](https://gitcoin.co/grants/1906/build-finance-dao)
 
