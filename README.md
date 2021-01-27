@@ -70,32 +70,20 @@ Access to minting function currently solely resides with @0xdev0 \(the dev found
 
 ### Voting
 
-* Snapshot \(off-chain\): [https://snapshot.page/\#/build](https://snapshot.page/#/build);
-* Minimum quorum required: 5%;
-* Voting window: At least 24 hours;
-* Minimum $BUILD to create a proposal: 10 $BUILD \(0.1% of the total supply\);
-* Voting with LP tokens: Holders are able to vote with BUILD/ETH UNI-LP tokens;
-* Delegated voting: Being discussed.
-
-### **Proposal Submission Process:**
-
-1. Create a soft proposal in the \#governance channel on Discord \(or in a product channel if it's more relevant\) [https://discord.com/channels/751313634038251630/751633430516727808](https://discord.com/channels/751313634038251630/751633430516727808);
-2. Gauge feedback from the community \(aka community vetting\);
-3. Make corrections or dispose;
-4. Set up a snapshot proposal;
-5. Once ready, ask a discord admin/moderator to make an announcement to @everyone and share on twitter. _Note: community proposals submitted to Snapshot without prior discussion on discord will be deemed void._
+Done on-chain. See details: [https://docs.build.finance/build-knowledge-base/on-chain-voting](https://docs.build.finance/build-knowledge-base/on-chain-voting)
 
 ## TREASURY & DEVELOPMENT
 
 ### BUILD DAO Treasury
 
-Currently there’s NO treasury MultiSig, but it is being discussed. Current holdings are:
+Currently there’s NO treasury MultiSig, but it is being discussed. Current holdings are \(might be outdated\):
 
 * Capital budget \(dev / incentives fund\) - 11,025 $BUILD \(~$94k\);
 * Operational budget \(product development\) - 204,300 $aDAI;
 * Ownership stake - 200,000 $METRIC \(~$84k\);
 * Ownership stake - 199,900 $UPDOWN\(~$62k\);
 * Ownership stake - 5,400 $HYPE \(~$1.3k\);
+* Ownership stake - 2% of $BSGS supply.
   * _**TOTAL: ~$445k**_
 
 ### Funding of the Development
@@ -122,10 +110,6 @@ To increase our collective output as a community, a governance vote introduced a
 
 Hence, Guardians are defined as members of the DAO who are entrusted with a community budget for tipping other members for performing various small tasks.
 
-All accounting for bCRED can be found in this google [spreadsheet](https://docs.google.com/spreadsheets/d/1q6-YiR5WlxNwCxGcX25fHsVvYnYDerbu-669YB_mJ_k/edit#gid=0).
-
-{% embed url="https://docs.google.com/spreadsheets/u/3/d/1q6-YiR5WlxNwCxGcX25fHsVvYnYDerbu-669YB\_mJ\_k/edit\#gid=0" %}
-
 ## PRODUCT SUITE & ROADMAP <a id="503f"></a>
 
 The Metric launch marked an important milestone for BUILD Finance. We’ve finally raised hard cash \(DAI\) into our treasury we can use for product development. We’ve launched our first product. We’ve doubled our number of users. And we’ve gained some attention from some of the well-respected members of the crypto-community. So where do we go from here?
@@ -133,8 +117,8 @@ The Metric launch marked an important milestone for BUILD Finance. We’ve final
 ![](.gitbook/assets/image%20%285%29.png)
 
 * **Metric Exchange** - is a DEX aggregator that allows for limit orders trading for any ERC-20 token via 0x relayer. Development continues with the product owner SHA\_2048 and inputs from vfat. Live at [metric.exchange](https://metric.exchange/).
+* **Basis Gold** - a synthetic, algorythmically-adjusted token pegged to the price of gold \(sXAU\) with elastic supply. Live at [https://basis.gold/](https://basis.gold/).
 * **Updown Finance** - binary options for volatility trading instrument \(alpha is live at [updown.finance](https://updown.finance/)\).
-* **bGold** - is a synthetic token pegged to gold. This product is being worked on by the bGold team, plus inputs from SHA\_2048 and whitemoose.
 * **Vortex** -  is a lending & borrowing platform, which will target the long tail of assets that are currently not served by the existing DeFi money markets. This is a new product that was conceived in late November, although a number of discussions about it have been going pretty much since the inception of BUILD. Aiming to launch by Feb'2021.
 
 The other immediate focus right now will be to make good use of our newly available funding and hire several product managers for other projects. More details on this will follow.
@@ -149,8 +133,6 @@ Please note that nothing is here set in stone. Just like any other start-up, we�
 * Medium: [https://build-finance.medium.com](https://build-finance.medium.com)
 * LinkedIn: [https://www.linkedin.com/company/build-finance-dao](https://www.linkedin.com/company/build-finance-dao)
 * GitHub: [https://github.com/build-finance](https://github.com/build-finance)
-* Telegram \(unofficial\):
-  * [https://t.me/buildfinancecommunity](https://t.me/buildfinancecommunity)
-  * [https://web.telegram.org/\#/im?p=g483719822](https://web.telegram.org/#/im?p=g483719822)
-* WeChat \(unofficial\): [https://weixin.qq.com/g/AgYAAKFpdTFYjJZ2f7Aljwd4vf-2JbeqCobrkH9KRcu18N-2sC31CUKFCMmcSNwp](https://weixin.qq.com/g/AgYAAKFpdTFYjJZ2f7Aljwd4vf-2JbeqCobrkH9KRcu18N-2sC31CUKFCMmcSNwp)
+* Telegram: [https://t.me/BuildFinanceGroup](https://t.me/BuildFinanceGroup)
+* Gitcoin: [https://gitcoin.co/grants/1906/build-finance-dao](https://gitcoin.co/grants/1906/build-finance-dao)
 

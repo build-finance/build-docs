@@ -1,4 +1,4 @@
-# On-chain voting
+# On-Chain Voting
 
 ## BUILD Governance
 
@@ -55,4 +55,24 @@ If the proposal passes, it will become executable after the execution period. Th
 If it fails, nothing will happen.
 
 To withdraw your funds after the proposal period ends, execute the `withdraw` function on the gov contract.
+
+\_\_\_\_\_\_\_
+
+### **Off-Chain Voting**
+
+Prior to on-chain governance, BUILD used off-chain signalling via Snapshot. This is still set up and might be used in cases when community wants to do non-binding signalling/polling.
+
+* Snapshot \(off-chain\): [https://snapshot.page/\#/build](https://snapshot.page/#/build);
+* Minimum quorum required: 5%;
+* Voting window: At least 24 hours;
+* Minimum $BUILD to create a proposal: 10 $BUILD \(0.1% of the total supply\);
+* Voting with LP tokens: Holders are able to vote with BUILD/ETH UNI-LP tokens.
+
+### **Proposal Submission Process:**
+
+1. Create a soft proposal in the \#governance channel on Discord \(or in a product channel if it's more relevant\) [https://discord.com/channels/751313634038251630/751633430516727808](https://discord.com/channels/751313634038251630/751633430516727808);
+2. Gauge feedback from the community \(aka community vetting\);
+3. Make corrections or dispose;
+4. Set up a snapshot proposal;
+5. Once ready, ask a discord admin/moderator to make an announcement to @everyone and share on twitter. _Note: community proposals submitted to Snapshot without prior discussion on discord will be deemed void._
 
