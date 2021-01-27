@@ -18,10 +18,10 @@ Modules controlled by the governance:
 
 Voting parameters can be changed in the future. As of Jan 25, 2021, they are as follows:
 
-* Min balance to submit new proposal: 100 $BUILD
-* Quorum required to pass a proposal: 5,000 $BUILD
-* Voting period: 24 hours
-* Execution delay \(after voting period ends\): 24 hours \(so 2 days since it's first submitted\)
+* Min balance to submit new proposal: 100 $BUILD;
+* Quorum required to pass a proposal: 5,000 $BUILD;
+* Voting period: 24 hours;
+* Execution delay \(after voting period ends\): 24 hours \(so 2 days since it's first submitted\).
 
 ### Pre-proposal
 
@@ -29,11 +29,11 @@ Before submitting a proposal, start a discussion in the \#governance channel in 
 
 For example, if you want to change an epoch period of Basis Gold, start a discussion in \#governance channel in Basis Gold Discord.
 
-If you want to allocate a budget to the homepage of build.finance \(unrelated to Basis Gold\), post a message in \#governance channel in BUILD Discord \(not in Basis Gold\).
+If you want to allocate a budget to the homepage of [build.finance](https://build.finance) \(unrelated to Basis Gold\), post a message in \#governance channel in BUILD Discord \(not in Basis Gold\).
 
 ### Proposal
 
-1\) After you get general feedback, assuming you mostly positive sentiment, you need to find a developer to code up your proposal. The developer can decide on how much to charge for coding up this proposal which will be paid by the treasury directly from the code of the proposal.
+1\) After you get general feedback, assuming mostly positive sentiment, you need to find a developer to code up your proposal. The developer can decide on how much to charge for coding up this proposal which will be paid by the treasury directly from the code of the proposal.
 
 2\) After the proposal contract is deployed, someone with enough BUILD needs to submit a proposal transaction to the governance contract. After this point, the proposal is available for voting. A moderator will announce it in the \#annoucements channel along with the instructions on how to vote.
 
