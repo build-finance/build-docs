@@ -69,6 +69,18 @@ Access to minting function is available via [on-chain governance](https://docs.b
 * Circulation info: [https://www.coingecko.com/en/coins/build-finance](https://www.coingecko.com/en/coins/build-finance)
 * Uniswap liquidity info: [https://uniswap.info/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b](https://uniswap.info/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b)
 
+## $BUILD Liquidity
+
+Liquidity is available 
+
+* Metric \(order optimisation\):[ metric.exchange](https://metric.exchange/)
+* Balancer:[ ](https://pools.balancer.exchange/#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC)[pools.balancer.exchange/\#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC](https://pools.balancer.exchange/#/pool/0xb2e2628330a15a2baf227de80780c704b557a4c3/)
+* Uniswap:[ uniswap.info/token/0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac](https://info.uniswap.org/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b)
+
+Note that BUILD Treasury is supplying liquidity to the Balancer pool, this gives BUILD additional return in form of LP fees and $BAL rewards as both $BUILD and $METRIC tokens are now whitelisted. 
+
+Rewards will be claimed from time to time, not too often as it won't be economically expedient. To see the current $BAL reward emission head to [https://claim.balancer.finance/\#/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583](https://claim.balancer.finance/#/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583).
+
 ## GOVERNANCE
 
 All components of the BUILD DAO and the control over its have been decentralised:
