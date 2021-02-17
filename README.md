@@ -65,13 +65,11 @@ Access to minting function is available via [on-chain governance](https://docs.b
 * DAO treasury address address [0x5A6eBeB61A80B2a2a5e0B4D893D731358d888583](https://etherscan.io/address/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583)
 * DAO fees collection address: [0xdf9a17a73308416f555783239573913afb77fa8a](https://etherscan.io/address/0xdf9a17a73308416f555783239573913afb77fa8a)
 * Founder vesting address: [0xB453fC3Fe4173A0DE51c799d42A4C58f6b7F0FF2](https://etherscan.io/address/0xB453fC3Fe4173A0DE51c799d42A4C58f6b7F0FF2)
-* Uniswap BUILD/ETH address: [0xDf6b861B4FBCFaffb62dD1906fCd3a863955704b](https://etherscan.io/address/0xDf6b861B4FBCFaffb62dD1906fCd3a863955704b)
 * Circulation info: [https://www.coingecko.com/en/coins/build-finance](https://www.coingecko.com/en/coins/build-finance)
-* Uniswap liquidity info: [https://uniswap.info/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b](https://uniswap.info/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b)
 
-## $BUILD Liquidity
+### **$BUILD Liquidity**
 
-Liquidity is available 
+Liquidity is available via:
 
 * Metric \(order optimisation\):[ metric.exchange](https://metric.exchange/)
 * Balancer:[ ](https://pools.balancer.exchange/#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC)[pools.balancer.exchange/\#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC](https://pools.balancer.exchange/#/pool/0xb2e2628330a15a2baf227de80780c704b557a4c3/)
