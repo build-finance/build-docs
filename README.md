@@ -45,9 +45,9 @@ Initial supply was 100,000 $BUILD with 100% distributed via fair launch. Subsequ
 * 15,000 $BUILD \(11.5%\) to the founding member of the DAO \(@0xdev0\) with 1-year gradual vesting, and
 * 15,000 $BUILD \(11.5%\) to the DAO treasury as development funds.
 
-For the proposal of the above see: [https://forum.letsbuild.finance/t/proposal-2-fund-the-development-of-defi-lending-platform/24](https://forum.letsbuild.finance/t/proposal-2-fund-the-development-of-defi-lending-platform/24)
+For the proposal of the above see: [https://forum.letsbuild.finance/t/proposal-2-fund-the-development-of-defi-lending-platform/24](https://forum.letsbuild.finance/t/proposal-2-fund-the-development-of-defi-lending-platform/24).
 
-The voting took place at a later retired web-page https://vote.letsbuild.finance. The governance has since moved to Snapshot \(link below\). The results of the old proposals are not visible there, however, on-chain voting contract can be see here: [https://etherscan.io/address/0xa8621477645f76b06a41c9393ddaf79ddee63daf\#readContract](https://etherscan.io/address/0xa8621477645f76b06a41c9393ddaf79ddee63daf#readContract)
+The voting took place at a later retired web-page https://vote.letsbuild.finance. The governance has since moved to Snapshot \(link below\). The results of the old proposals are not visible there, however, on-chain voting contract can be see here: [https://etherscan.io/address/0xa8621477645f76b06a41c9393ddaf79ddee63daf\#readContract](https://etherscan.io/address/0xa8621477645f76b06a41c9393ddaf79ddee63daf#readContract).
 
 ### $Build Token Repartition
 
@@ -113,7 +113,10 @@ Contracts are not audited. It's up to the BUILD community governance to decide h
 
 #### **DAO Liabilities and $bCRED**
 
-$bCRED is a token that allowed the DAO to reward members for work before the DAO source sufficient funds. Effectively, $bCRED is a promissory note or an IOU to give back $DAI at 1:1 ratio, when the DAO starts generating revenues. Read more about $bCRED here: [https://medium.com/@BUILD\_Finance/what-is-bcred-b97e4cc75f8c](https://medium.com/@BUILD_Finance/what-is-bcred-b97e4cc75f8c).
+$bCRED is a token that allowed the DAO to reward members for work before the DAO source sufficient funds. Effectively, $bCRED is a promissory note or an IOU to give back $DAI at 1:1 ratio, when the DAO starts generating revenues. 
+
+* Read more about $bCRED here [medium.com/@BUILD\_Finance/what-is-bcred-b97e4cc75f8c](https://medium.com/@BUILD_Finance/what-is-bcred-b97e4cc75f8c).
+* bCRED contract address [0xB7412E57767EC30a76a4461d408d78b36688409C](https://etherscan.io/token/0xB7412E57767EC30a76a4461d408d78b36688409C).
 
 #### "BUILDER" User Role in Discord
 
