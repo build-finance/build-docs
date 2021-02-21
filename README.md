@@ -149,7 +149,7 @@ Hence, Guardians are defined as members of the DAO who are entrusted with a comm
 ![](.gitbook/assets/image%20%286%29.png)
 
 * **Metric Exchange** - is a DEX aggregator that allows for limit orders trading for any ERC-20 token via 0x relayer. Development continues with the product owner SHA\_2048 and inputs from vfat. Live at [metric.exchange](https://metric.exchange/).
-* **Basis Gold** - a synthetic, algorythmically-adjusted token pegged to the price of gold \(sXAU\) with elastic supply. Live at [https://basis.gold/](https://basis.gold/).
+* **Basis Gold** - a synthetic, algorithmically-adjusted token pegged to the price of gold \(sXAU\) with elastic supply. Live at [https://basis.gold/](https://basis.gold/).
 * **Updown Finance** - binary options for volatility trading instrument \(alpha is live at [updown.finance](https://updown.finance/)\).
 * **Vortex** - a lending & borrowing platform, which will target the long tail of assets that are currently not served by the existing DeFi money markets. Aiming to launch by March'2021.
 
