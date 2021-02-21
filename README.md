@@ -107,6 +107,20 @@ Current holdings are _\(might be outdated\)_:
 
 In an early stage, the development will be funded by an allocation of bCRED debt tokens for development expenses. After the first product was built \(i.e. Metric Exchange\), the DAO sold 5,000 $BUILD for 203,849 $DAI which will now be used for funding of other products or a combination of revenue + a smaller token allocation. This is up to the community to decide.
 
+**Operational Budget**
+
+Following [the very first onchain voting](https://discord.com/channels/751313634038251630/751463875618275428/812588893458661386), BUILD has established a Gnosis Multisig Wallet. These funds will be used for operational expenses and to pay developers, designers, etc. The wallet has 7 signers: 
+
+1. 0x2Cb037BD6B7Fbd78f04756C99B7996F430c58172 @0xdev0
+2. 0x78E0c53f0a71d345Abf9823588A3e2fea87B1b3a @Benjamin Mooney
+3. 0x35fd788f0DF50d94DED12560E03986fb625d9b2d @Son of Ishtar
+4. 0x39DE05B0984693a0A2E0e6C87A89EEE66AE4aAE3 @vfat 
+5. 0x53e0B897EAE600B2F6855FCe4a42482E9229D2c2 @nickbtts 
+6. 0x292c6DAE7417B3D31d8B6e1d2EeA0258d14C4C4b @SHA\_2048 
+7. 0x6061205c7ada4FB1Ef98bebf4ADb04aBF97ba051@Urbane Grandier
+
+The initial funding will include with 50,000 bCRED out the DAO's Treasury + plus all unvested bCRED allocation held individually by the guardians \(specifically 0xdev0 and Son of Ishtar\).
+
 #### **Smart Contract Audit**
 
 Contracts are not audited. It's up to the BUILD community governance to decide how to spend our funds. If the community wants to spend any amount for auditing, a voting proposal can be initiated. As with any decisions and proposals, the cost-benefit analysis must be employed in regards to the economical sense of spending any funds on audit vs developing more products and expanding our revenue streams.
