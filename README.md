@@ -111,7 +111,7 @@ In an early stage, the development will be funded by an allocation of bCRED debt
 
 Following [the very first onchain voting](https://discord.com/channels/751313634038251630/751463875618275428/812588893458661386), BUILD has established a Gnosis Multisig Wallet \([0x39198bC9956AC06b1CbE9f6B186460BEA19C05B9](https://gnosis-safe.io/app/#/safes/0x39198bC9956AC06b1CbE9f6B186460BEA19C05B9/balances)\). These funds will be used for operational expenses and to pay developers, designers, etc. The initial funding will include with 50,000 bCRED out the DAO's Treasury + plus all unvested bCRED allocation held individually by the guardians \(specifically 0xdev0 and Son of Ishtar\). 
 
-The wallet has 7 signers: 
+The wallet has 7 signers with any TX requiring confirmation of 3 out of 7: 
 
 1. 0x2Cb037BD6B7Fbd78f04756C99B7996F430c58172 @0xdev0
 2. 0x78E0c53f0a71d345Abf9823588A3e2fea87B1b3a @Benjamin Mooney
