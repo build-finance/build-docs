@@ -62,7 +62,8 @@ The voting took place at a later retired web-page https://vote.letsbuild.finance
 Access to minting function is available via [on-chain governance](https://docs.build.finance/build-knowledge-base/on-chain-voting). A safe buffer is established in a form of the contract-enforced 24 hour delay, which should provide a sufficient time for the community to flag. Meaning that before such a transaction could be executed, everyone would be able to act in advance by withdrawing their funds / exiting from BUILD. Any malicious minting would, theoretically, result in an immediate market sell-off of $BUILD, making it economically detrimental to do such an action. This makes it highly improbable that any malicious minting would be performed_._
 
 * $BUILD token address: [0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739](https://etherscan.io/address/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739)
-* DAO treasury address address [0x5A6eBeB61A80B2a2a5e0B4D893D731358d888583](https://etherscan.io/address/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583)
+* DAO treasury address NEW: [0x3157439c84260541003001129c42fb6aba57e758](https://etherscan.io/address/0x3157439c84260541003001129c42fb6aba57e758)
+* DAO treasury address OLD: [0x5A6eBeB61A80B2a2a5e0B4D893D731358d888583](https://etherscan.io/address/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583)
 * DAO fees collection address: [0xdf9a17a73308416f555783239573913afb77fa8a](https://etherscan.io/address/0xdf9a17a73308416f555783239573913afb77fa8a)
 * Founder vesting address: [0xB453fC3Fe4173A0DE51c799d42A4C58f6b7F0FF2](https://etherscan.io/address/0xB453fC3Fe4173A0DE51c799d42A4C58f6b7F0FF2)
 * Circulation info: [https://www.coingecko.com/en/coins/build-finance](https://www.coingecko.com/en/coins/build-finance)
