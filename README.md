@@ -73,7 +73,8 @@ Access to minting function is available via [on-chain governance](https://docs.b
 Liquidity is available via:
 
 * Metric \(order optimisation\):[ metric.exchange](https://metric.exchange/)
-* Balancer:[ ](https://pools.balancer.exchange/#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC)[pools.balancer.exchange/\#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC](https://pools.balancer.exchange/#/pool/0xb2e2628330a15a2baf227de80780c704b557a4c3/)
+* Balancer \(5-asset pool\):[ ](https://pools.balancer.exchange/#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC)[pools.balancer.exchange/\#/explore?token=0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC](https://pools.balancer.exchange/#/pool/0xb2e2628330a15a2baf227de80780c704b557a4c3/)
+* Balancer \(3-asset pool\): [pools.balancer.exchange/\#/pool/0x4d87920d35cd288d9d2e8f311ff4de814225987d](https://pools.balancer.exchange/#/pool/0x4d87920d35cd288d9d2e8f311ff4de814225987d/)
 * Uniswap:[ uniswap.info/token/0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac](https://info.uniswap.org/pair/0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b)
 
 Note that BUILD Treasury is supplying liquidity to the Balancer pool, this gives BUILD additional return in form of LP fees and $BAL rewards as both $BUILD and $METRIC tokens are now whitelisted. 
