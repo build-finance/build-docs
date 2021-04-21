@@ -79,7 +79,10 @@ Liquidity is available via:
 
 Note that BUILD Treasury is supplying liquidity to the Balancer pool, this gives BUILD additional return in form of LP fees and $BAL rewards as both $BUILD and $METRIC tokens are now whitelisted. 
 
-Rewards will be claimed from time to time, not too often as it won't be economically expedient. To see the current $BAL reward emission head to [https://claim.balancer.finance/\#/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583](https://claim.balancer.finance/#/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583).
+Rewards will be claimed from time to time, not too often as it won't be economically expedient. To see the current $BAL reward emission head to 
+
+* [claim.balancer.finance/\#/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583](https://claim.balancer.finance/#/0x5a6ebeb61a80b2a2a5e0b4d893d731358d888583) \(old treasury\);
+* [claim.balancer.finance/\#/0x3157439c84260541003001129c42fb6aba57e758](https://claim.balancer.finance/#/0x3157439c84260541003001129c42fb6aba57e758) \(new treasury\).
 
 ## GOVERNANCE
 
